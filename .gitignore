@@ -4,3 +4,5 @@ courses/*
 !courses/README.md
 audits/*
 !audits/README.md
+src/__pycache__/*
+__pycache__/*
