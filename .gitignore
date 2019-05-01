@@ -1,0 +1,6 @@
+output/*
+!output/README.md
+courses/*
+!courses/README.md
+audits/*
+!audits/README.md
