@@ -176,6 +176,6 @@ def main(file):
     Graph(prog)
 
 if __name__ == '__main__':
-    file = open(sys.argv[1])
+    file = open('audits/' + sys.argv[1])
     main(file)
     file.close()
